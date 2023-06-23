@@ -1,1 +1,9 @@
 Hai guys........ I am radha
+<!DOCTYPE html>
+<head>
+<title>SAMPLE DEMO FOR GITHUB</title>
+</head>
+<body>
+<h1>This demo os related to updating file in git repo</h1>
+</body>
+</html>
